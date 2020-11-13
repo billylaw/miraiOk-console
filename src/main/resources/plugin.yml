@@ -1,0 +1,6 @@
+name: "BrokerMsgPlugin"
+author: "wind"
+version: "0.1.0"
+main: "com.wind.ibroker.plugin.Main"
+info: "Msg消息插件"
+depends: []
